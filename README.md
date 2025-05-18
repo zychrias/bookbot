@@ -1,2 +1,3 @@
 # bookbot
-Bookbot training program from boot_dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
